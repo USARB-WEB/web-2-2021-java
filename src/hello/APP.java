@@ -12,7 +12,6 @@ public class APP {
         Bus bus = new Bus();
         System.out.println(bus.getName());
 
-
         Bus redBus = new Bus();
         redBus.pain("red");
         System.out.println("Bus body color is: " + redBus.getBodyColor());
