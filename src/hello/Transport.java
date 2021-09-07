@@ -2,6 +2,8 @@ package hello;
 
 public class Transport {
     protected String name;
+    private String bodyColor = "white";
+    private String wheelColor = "black";
     Transport(){
         this.name = "Noname";
     }
@@ -18,7 +20,15 @@ public class Transport {
         this.name = name;
     }
 
+    String getBodyColor(){
+        return this.bodyColor;
+    }
+
     void run(){
         System.out.println(this.name + " move on UNDEFINED");
+    }
+
+    void pain(String bodyColor){
+        this.bodyColor = bodyColor;
     }
 }
