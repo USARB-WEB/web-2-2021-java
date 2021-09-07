@@ -28,7 +28,7 @@ public class Transport {
         System.out.println(this.name + " move on UNDEFINED");
     }
 
-    void pain(String bodyColor){
+    void paint(String bodyColor){
         this.bodyColor = bodyColor;
     }
 }
