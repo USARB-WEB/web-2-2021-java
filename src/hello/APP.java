@@ -14,7 +14,13 @@ public class APP {
 
         Bus redBus = new Bus();
         redBus.paint("red");
-        System.out.println("Bus body color is: " + redBus.getBodyColor());
+        System.out.println("Red Bus body color is: " + redBus.getBodyColor());
+        System.out.println("Red Bus wheel color is: " + redBus.getWheelColor());
+
+        Bus redBlueBus = new Bus();
+        redBlueBus.paint("red", "blue");
+        System.out.println("Red Blue Bus body color is: " + redBlueBus.getBodyColor());
+        System.out.println("Red Blue Bus wheel color is: " + redBlueBus.getWheelColor());
 
     }
 }

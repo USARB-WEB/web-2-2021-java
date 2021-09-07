@@ -24,11 +24,20 @@ public class Transport {
         return this.bodyColor;
     }
 
+    String getWheelColor(){
+        return this.wheelColor;
+    }
+
     void run(){
         System.out.println(this.name + " move on UNDEFINED");
     }
 
     void paint(String bodyColor){
         this.bodyColor = bodyColor;
+    }
+
+    void paint(String bodyColor, String wheelColor){
+        this.bodyColor = bodyColor;
+        this.wheelColor = wheelColor;
     }
 }
