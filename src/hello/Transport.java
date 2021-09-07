@@ -11,4 +11,8 @@ public class Transport {
         this.name = name;
         System.out.println("I am a " + name);
     }
+
+    String getName(){
+        return this.name;
+    }
 }
