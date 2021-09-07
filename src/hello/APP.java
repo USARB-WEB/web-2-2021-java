@@ -11,5 +11,7 @@ public class APP {
         System.out.println(train.getName());
         Bus bus = new Bus();
         System.out.println(bus.getName());
+
+
     }
 }

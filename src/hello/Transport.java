@@ -17,4 +17,8 @@ public class Transport {
     void setName(String name){
         this.name = name;
     }
+
+    void run(){
+        System.out.println(this.name + " move on UNDEFINED");
+    }
 }
