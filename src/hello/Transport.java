@@ -15,4 +15,8 @@ public class Transport {
     String getName(){
         return this.name;
     }
+
+    void setName(String name){
+        this.name = name;
+    }
 }

@@ -5,5 +5,7 @@ public class APP {
         Transport transport = new Transport();
         Transport t2 = new Transport("Bus");
         System.out.println(transport.getName());
+        transport.setName("Train");
+        System.out.println(transport.getName());
     }
 }
