@@ -7,7 +7,7 @@ public class Main {
         if(coffeeMachine.pay(5)){
             coffeeMachine.showInfo("Please chose option");
             coffeeMachine.showInfo(
-                    coffeeMachine.choose(1)
+                    "You choose is: " + coffeeMachine.choose(1)
             );
         } else {
             coffeeMachine.showInfo("Please insert correct banknote");
