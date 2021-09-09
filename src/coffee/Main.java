@@ -5,5 +5,6 @@ public class Main {
         CoffeeMachine coffeeMachine = new CoffeeMachine();
         coffeeMachine.pay();
         coffeeMachine.choose();
+        coffeeMachine.prepare();
     }
 }
