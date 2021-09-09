@@ -21,7 +21,25 @@ public class CoffeeMachine {
         System.out.println(message);
     }
 
-    public String prepare(String coffeeType){
+    public String done(String coffeeType){
         return coffeeType;
+    }
+
+    public void prepare(){
+        String coffeeType = "";
+        this.showInfo("Please insert banknote");
+        if(this.pay(5)){
+            this.showInfo("Please chose option");
+            coffeeType = this.choose(1);
+            this.showInfo(
+                    "You choose is: " + coffeeType
+            );
+            this.showInfo("Preparing...");
+            this.showInfo(
+                    "Done: " + this.done(coffeeType)
+            );
+        } else {
+            this.showInfo("Please insert correct banknote");
+        }
     }
 }
