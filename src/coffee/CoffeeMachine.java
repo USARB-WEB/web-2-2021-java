@@ -21,7 +21,7 @@ public class CoffeeMachine {
         System.out.println(message);
     }
 
-    public String prepare(){
-        return "";
+    public String prepare(String coffeeType){
+        return coffeeType;
     }
 }
