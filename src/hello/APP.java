@@ -22,5 +22,13 @@ public class APP {
         System.out.println("Red Blue Bus body color is: " + redBlueBus.getBodyColor());
         System.out.println("Red Blue Bus wheel color is: " + redBlueBus.getWheelColor());
 
+
+        Transport[] transports = {
+                new Bus(),
+                new Bus(),
+                new Train(),
+                new Bus()
+        };
+
     }
 }
