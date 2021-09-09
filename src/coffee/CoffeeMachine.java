@@ -4,4 +4,8 @@ public class CoffeeMachine {
     public Boolean pay(){
         return true;
     }
+
+    public String choose(){
+        return "";
+    }
 }
