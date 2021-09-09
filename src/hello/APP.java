@@ -31,6 +31,7 @@ public class APP {
         };
 
         for(Transport t: transports){
+            //here we have polymorphism principle
             t.run();
         }
 
