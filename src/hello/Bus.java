@@ -6,6 +6,6 @@ public class Bus extends Transport{
     }
 
     void run(){
-        System.out.println(this.name + " move on Rails");
+        System.out.println(this.name + " move on Road");
     }
 }

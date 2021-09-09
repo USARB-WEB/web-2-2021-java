@@ -6,6 +6,6 @@ public class Train extends Transport{
     }
 
     void run(){
-        System.out.println(this.name + " move on Road");
+        System.out.println(this.name + " move on Rails");
     }
 }
