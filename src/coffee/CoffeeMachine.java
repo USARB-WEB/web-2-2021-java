@@ -12,4 +12,8 @@ public class CoffeeMachine {
     public String showInfo(){
         return "";
     }
+
+    public String prepare(){
+        return "";
+    }
 }
