@@ -9,9 +9,8 @@ public class CoffeeMachine {
         return "";
     }
 
-    public String showInfo(String message){
+    public void showInfo(String message){
         System.out.println(message);
-        return message;
     }
 
     public String prepare(){
