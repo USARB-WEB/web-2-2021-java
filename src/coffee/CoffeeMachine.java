@@ -1,7 +1,7 @@
 package coffee;
 
 public class CoffeeMachine {
-    public Boolean pay(){
+    public Boolean pay(Integer banknoteNominal){
         return true;
     }
 
