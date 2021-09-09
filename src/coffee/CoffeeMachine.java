@@ -1,14 +1,14 @@
 package coffee;
 
 public class CoffeeMachine {
-    public Boolean pay(Integer banknoteNominal){
+    private Boolean pay(Integer banknoteNominal){
         if(banknoteNominal == 5 || banknoteNominal == 10){
             return true;
         }
         return false;
     }
 
-    public String choose(Integer option){
+    private String choose(Integer option){
         if(option == 1){
             return "Coffee";
         } else if(option == 2){
@@ -17,11 +17,11 @@ public class CoffeeMachine {
         return "Incorrect option";
     }
 
-    public void showInfo(String message){
+    private void showInfo(String message){
         System.out.println(message);
     }
 
-    public String done(String coffeeType){
+    private String done(String coffeeType){
         return coffeeType;
     }
 
