@@ -8,4 +8,8 @@ public class CoffeeMachine {
     public String choose(){
         return "";
     }
+
+    public String showInfo(){
+        return "";
+    }
 }
