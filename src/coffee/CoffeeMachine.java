@@ -8,8 +8,13 @@ public class CoffeeMachine {
         return false;
     }
 
-    public String choose(){
-        return "";
+    public String choose(Integer option){
+        if(option == 1){
+            return "Coffee";
+        } else if(option == 2){
+            return "Cappuccino";
+        }
+        return "Incorrect option";
     }
 
     public void showInfo(String message){
