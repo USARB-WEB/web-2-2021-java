@@ -2,7 +2,10 @@ package coffee;
 
 public class CoffeeMachine {
     public Boolean pay(Integer banknoteNominal){
-        return true;
+        if(banknoteNominal == 5 || banknoteNominal == 10){
+            return true;
+        }
+        return false;
     }
 
     public String choose(){
