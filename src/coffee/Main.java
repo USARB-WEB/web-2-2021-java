@@ -6,11 +6,12 @@ public class Main {
         coffeeMachine.showInfo("Please insert banknote");
         if(coffeeMachine.pay(5)){
             coffeeMachine.showInfo("Please chose option");
+            coffeeMachine.choose();
         } else {
             coffeeMachine.showInfo("Please insert correct banknote");
         }
 
-        coffeeMachine.choose();
+
         coffeeMachine.prepare();
     }
 }
