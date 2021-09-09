@@ -30,5 +30,9 @@ public class APP {
                 new Bus()
         };
 
+        for(Transport t: transports){
+            t.run();
+        }
+
     }
 }
