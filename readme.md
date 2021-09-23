@@ -21,3 +21,7 @@
 + https://www.youtube.com/watch?v=ZJUAR8Xe6CY
 + https://www.youtube.com/watch?v=R3YNPm7ZmYY
 + https://github.com/sergiuchilat/springboot_sample
+
+
+# Postman collection for Spring application
+https://www.getpostman.com/collections/a5e913ac44c657f94ef1
