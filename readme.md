@@ -25,3 +25,8 @@
 
 # Postman collection for Spring application
 https://www.getpostman.com/collections/a5e913ac44c657f94ef1
+
+
+# Hibernate tutorial
++ https://www.youtube.com/watch?v=4Ico2HjRTCE
++ https://www.jetbrains.com/help/idea/work-with-gradle-dependency-diagram.html
