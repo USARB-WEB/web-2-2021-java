@@ -34,4 +34,4 @@ https://www.getpostman.com/collections/a5e913ac44c657f94ef1
 + https://www.jetbrains.com/help/idea/work-with-gradle-dependency-diagram.html
 
 # Tools
-+ Database migration https://www.liquibase.com/
++ Database migration https://www.liquibase.org
