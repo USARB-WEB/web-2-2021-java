@@ -32,3 +32,6 @@ https://www.getpostman.com/collections/a5e913ac44c657f94ef1
 + https://www.youtube.com/watch?v=4Ico2HjRTCE
 + https://spring.io/guides/gs/accessing-data-mysql/
 + https://www.jetbrains.com/help/idea/work-with-gradle-dependency-diagram.html
+
+# Tools
++ Database migration https://www.liquibase.com/
