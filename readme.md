@@ -36,6 +36,8 @@ https://www.getpostman.com/collections/a5e913ac44c657f94ef1
 # Database migration
 + https://www.liquibase.org
 + https://www.youtube.com/watch?v=JTdcd4DYgEI
++ https://b-gyula.github.io/liquibase-doc/documentation/changes/add_column.html
++ https://chartio.com/resources/tutorials/how-to-grant-all-privileges-on-a-database-in-mysql/
 
 # Tools
 + https://ospanel.io/
