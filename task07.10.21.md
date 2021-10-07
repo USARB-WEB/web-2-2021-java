@@ -10,7 +10,7 @@
 
 Important: 
 + minimum 1 commit for each method of Model, Controller, Repository and Service.
-+ add screen how CRUD methods works in Postman
++ add screen how CRUD methods work in Postman
 
 Variants: 
 + Banari Vladislav - Car: name, engineType, maxSpeed
