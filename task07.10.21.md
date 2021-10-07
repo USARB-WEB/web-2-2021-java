@@ -12,42 +12,22 @@ Important:
 + minimum 1 commit for each method of Model, Controller, Repository and Service.
 + add screen how CRUD methods works in Postman
 
-Banari Vladislav
-  Car: name, engineType, maxSpeed
-Bazaochi Dumitru
-  Bus: number, color, maxPlaces
-Ceauș Maxim
-  Rabbit: name, age, type
-Cozma Denis	
-  Train: routeName, maxPassengers, color
-Crețu Cristina	
-  Employee: idnp, name, salary  
-Elizarov Alexei	
-  PC: brand, ramSize, price
-Guțu Ivan	
-  Phone: brand, color, price
-Lungu Andrei	
-  Bank Account: number, totalMoney, ownerName
-Maidacenco Anastasia	
-  Student: name, group, averageMark
-Maneev Dumitru	
-  Company: name, website, totalEmployees
-Mihalachi Alexandrina	
-  Store: name, address, totalProducts
-Munteanu Victor	
-  Monitor(screen): brand, resolution
-Popov Marina	
-  Teacher: name, school, experience(in years)
-Rusica Alexandru
-  Fish: species, weight, age(years)
-Sandiuc Vitalie	
- POS terminal: number, storeName, casInForDay
-Tabanschi Alexandru	
-  Pupil: name, class, averageMark
-Tîltu Andrei
-  User: email. password, phone
-Țurcanu Tudor	
-  Product: name, price, weight
-Vorotna Andriana	
-  Butterfly: type, color, age(in days)
-  
++ Banari Vladislav - Car: name, engineType, maxSpeed
++ Bazaochi Dumitru - Bus: number, color, maxPlaces
++ Ceauș Maxim - Rabbit: name, age, type
++ Cozma Denis	- Train: routeName, maxPassengers, color
++ Crețu Cristina - Employee: idnp, name, salary  
++ Elizarov Alexei	- PC: brand, ramSize, price
++ Guțu Ivan	- Phone: brand, color, price
++ Lungu Andrei - Bank Account: number, totalMoney, ownerName
++ Maidacenco Anastasia - Student: name, group, averageMark
++ Maneev Dumitru - Company: name, website, totalEmployees
++ Mihalachi Alexandrina	- Store: name, address, totalProducts
++ Munteanu Victor	- Monitor(screen): brand, resolution
++ Popov Marina - Teacher: name, school, experience(in years)
++ Rusica Alexandru - Fish: species, weight, age(years)
++ Sandiuc Vitalie	- POS terminal: number, storeName, casInForDay
++ Tabanschi Alexandru	- Pupil: name, class, averageMark
++ Tîltu Andrei - User: email. password, phone
++ Țurcanu Tudor	- Product: name, price, weight
++ Vorotna Andriana - Butterfly: type, color, age(in days)
