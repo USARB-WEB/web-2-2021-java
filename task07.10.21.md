@@ -32,3 +32,8 @@ Variants:
 + Tîltu Andrei - User: email. password, phone
 + Țurcanu Tudor	- Product: name, price, weight
 + Vorotna Andriana - Butterfly: type, color, age(in days)
+
+Deadline:
++ acces to repository for ``serguchilat`` 07.10.2021 09:00
++ load first project files to repository 07.10.2021 09:30
++ finish all tasks 07.10.2021 11:15
