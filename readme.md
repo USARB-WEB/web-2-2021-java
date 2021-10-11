@@ -39,5 +39,8 @@ https://www.getpostman.com/collections/a5e913ac44c657f94ef1
 + https://b-gyula.github.io/liquibase-doc/documentation/changes/add_column.html
 + https://chartio.com/resources/tutorials/how-to-grant-all-privileges-on-a-database-in-mysql/
 
+# JWT authorization
++ https://youtu.be/yRnSUDx3Y8k
+
 # Tools
 + https://ospanel.io/
